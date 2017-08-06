@@ -31,9 +31,6 @@
     "host": "https://github.com/JCMais/node-libcurl/releases/download",
     "remote_path": "./v{version}/"
   },
-  "bundledDependencies": [
-    "node-pre-gyp"
-  ],
   "dependencies": {
     "debug": "^2.2",
     "nan": "~2.5.0",
